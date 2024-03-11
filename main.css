@@ -1,0 +1,22 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+    .row{
+    display: flex;
+    gap: 10px;
+}
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20px;
+background-color: green;
+width: 200px;
+
+}
+button{
+    background-color: rgb(95, 181, 95);
+}
